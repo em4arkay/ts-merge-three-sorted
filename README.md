@@ -6,7 +6,6 @@ A TypeScript project to merge three pre-sorted integer arrays into a single, asc
 
 ```
 merge(collection_1: number[], collection_2: number[], collection_3: number[]): number[]
-
 ```
 
 ### Constraints:
@@ -29,7 +28,6 @@ merge(collection_1: number[], collection_2: number[], collection_3: number[]): n
 
 ```
 npm install
-
 ```
 
 ### 2. Build the Project
@@ -38,7 +36,6 @@ This compiles the TypeScript files into JavaScript in the `dist` folder.
 
 ```
 npm run build
-
 ```
 
 ### 3. Run Demo
@@ -47,7 +44,6 @@ Executes the example code from `src/index.ts`.
 
 ```
 npm start
-
 ```
 
 ### 4. Run Tests
@@ -56,5 +52,4 @@ Verifies the implementation against all test cases using Jest.
 
 ```
 npm test
-
 ```
